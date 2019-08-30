@@ -1,7 +1,7 @@
 # image_caption
 Use CNN + LSTM to make caption for image!
 
-Article link: http://ainoodle.tech/2019/08/22/ocr-nhan-dang-van-ban-tieng-viet-voi-tesseract-ocr/
+Article link: http://ainoodle.tech/2019/08/30/computer-vision-day-cho-may-tinh-biet-binh-anh-bang-cnnlstm/
 
 #MìAI 
 Fanpage: http://facebook.com/miaiblog
